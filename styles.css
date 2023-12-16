@@ -1,0 +1,184 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    
+    text-align: center;
+    margin: auto;
+    background-color: #D4EDD8;
+    font-family: Quicksand;
+    
+    
+
+}
+
+#card-section{
+
+
+    width: 800px;
+    height: 870px;
+    display: block;
+    margin: 10px auto;
+    border: 8px solid white;
+    border-radius: 18px 18px;
+    
+}
+
+
+h1{
+
+    margin: 80px  auto 0px auto;
+    background-color:#6B7DB3;
+    color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 4px 4px;
+    padding: 8px 8px 4px 8px;
+    
+    
+    
+}
+.activity-section h3{
+
+
+    color:#404E7C ;
+   
+}
+
+.hero p{
+
+    margin: 20px  auto 0px auto;
+    background-color:#404E7C;
+    color: white;
+    width: 350px;
+    border-radius: 4px 4px;
+    padding: 8px 8px 4px 8px;
+   
+     
+}
+
+.sub-activiti-desc p{
+
+  color: #260F26;
+}
+
+
+img {
+    width: 200px;
+   
+  
+}
+#business-card img{
+    width: 160px;
+    margin: 5px auto 5px 10px;
+    border-radius: 4px;
+
+}  
+
+
+
+.activiti-sub img {
+    width: 100px;
+    border-radius: 50%;
+   
+    
+  
+}
+
+.activiti-sub{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.hero{
+
+   border-radius: 12px 12px 0px 0px ;
+   border: 1px solid  transparent;
+   border-bottom: none;
+   height: 320px;
+   background-image: url("images/seafont.jpg");
+   background-size: cover;
+   
+  
+}
+
+.activity-section{
+
+ height: 300px;
+ background-image:linear-gradient(#D4EDD8 );
+ margin: none;
+ border: 1px solid transparent;
+
+}
+
+.guide-section{
+
+    height: 250px;
+    background-color: white;
+    margin: none;
+    border-radius: 0px 0px 12px 12px ;
+    border: 1px solid transparent;
+    
+
+}
+
+.sub-activity-title{
+
+
+    display: flex;
+    justify-content: space-around;
+}
+.sub-activity-title h4{
+
+    color: #404E7C;
+}
+
+.sub-activiti-desc{
+
+    display: flex;
+    justify-content: space-evenly;
+    width: 780px;
+   
+}
+.sub-activiti-desc p{
+
+    color:#1D0C1D;
+    margin: 5px auto;
+}
+
+#business-card{
+
+    width: 420px;
+    height: 200px;
+  
+    background-color: #7EE4C6;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px 8px 0px 0px;
+    border-bottom: 6px solid #404E7C ;
+  
+
+}
+
+#gabon-text{
+
+
+    color: #FBFB05;
+    width: 100px;
+}
+
+#text-say p{
+
+    font-style: italic;
+}
